@@ -21,9 +21,10 @@ bun dev
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-This is the repo contains the proof of work for the role of internship assignment task for Fullstack Developer Intern at CareJar <br/>
-the task consists of a SPA(Singel Page Application) with the 2 section of selecting the type of doctor and the list of doctors in of the selected type the 
-the Spa is built with react the the first section gives the user the option to select the type of doctor from with the user moves to the next section where with help of a slug data is fetched dynamically from a express API which fetched data from mongo db data base this api is present in the backend  folder and deployed on render can be Linkes prodived below
+This repository contains the proof of work for the internship assignment task for the role of Fullstack Developer Intern at CareJar. The task involves creating a Single Page Application (SPA) with two sections: one for selecting the type of doctor and the other for displaying a list of doctors of the selected type. The SPA is built with React.
+
+In the first section, users have the option to choose the type of doctor. Upon selection, they move to the next section, where data is dynamically fetched using a slug from an Express API. This API retrieves data from a MongoDB database. The backend for this API is located in the 'backend' folder and is deployed on Render. The provided link below can be used to access it.
+
 <ul>
 <li>api home route</li>
  https://carrejarrrrrrr.onrender.com/
