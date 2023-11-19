@@ -9,7 +9,7 @@
 
 </ul>
 <b><i>Project Deployed Link </i></b>
-<i>To visited the deployed project click the link deloy</i>
+<i>To visited the deployed project click the link below</i>
 
 - [Project Link](https://care-jar-assignment.vercel.app/)
 
