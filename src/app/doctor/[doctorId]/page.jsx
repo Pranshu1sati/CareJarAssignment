@@ -5,13 +5,13 @@ import axios from 'axios';
 import Image from 'next/image';
 import '../../doctor/doc.css'
 
-const Doctor = () => {
+const Doctor = ({params}) => {
   const [loading, setLoading] = useState(true);
   const [data, setData] = useState([]);
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    const fetchData = async ({params}) => {
+    const fetchData = async () => {
       setLoading(true);
       try {
         const { data: response } = await axios.get(`https://carrejarrrrrrr.onrender.com/doc/${params.doctorId}`);
