@@ -1,13 +1,11 @@
 <h1>This is a the proof of work of the <b><i>CareJar</i> Fullstack Intership task</b> </h1>
 <h3>Built with </h3>
 <ul list-style-type="none"; >
- <li>
+
   <img src="https://github.com/Pranshu1sati/CareJarAssignment/assets/95905172/bfd7f08f-1b14-4897-ad7a-300fc560f8f8" width="100" height ="100"/>
   <img src='https://github.com/Pranshu1sati/CareJarAssignment/assets/95905172/c5392dc8-3ae5-43ee-a400-e73524378f7e' width="100" height ="100"/>
   <img src='https://github.com/Pranshu1sati/CareJarAssignment/assets/95905172/bfffa1b1-6f51-4ab1-9f9f-eabc78189210' width="100" height ="100"/> 
   <img src='https://github.com/Pranshu1sati/CareJarAssignment/assets/95905172/d66bec7a-4d60-46ec-b334-f910cc08a19c' width="100" height ="100"/>
-
-</li>
 
 </ul>
 <b><i>Project Deployed Link </i></b>
