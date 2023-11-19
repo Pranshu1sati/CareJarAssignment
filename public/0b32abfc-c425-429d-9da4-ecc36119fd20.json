@@ -1,0 +1,240 @@
+{
+  "doctors": [
+    {
+      "id": 3,
+      "type": "Dietitian",
+      "description": "Offers expert nutrition advice and meal planning and so many more.",
+      "imageurl": "https://content.jdmagicbox.com/comp/def_content/dietitians/default-dietitians-5.jpg",
+      "specialist_doctors": [
+        {
+          "name": "Dr. Sarah Mitchell",
+          "type": "Dietitian",
+          "description": "Specializes in weight management and nutrition planning.",
+          "experience_years": 12,
+          "location": "New York, NY",
+          "fee": "$150",
+          "image_url": "https://media.istockphoto.com/id/1048942096/photo/young-blonde-dietitian-doctor-woman-over-grunge-grey-wall-holding-green-apple-scared-in-shock.jpg?s=1024x1024&w=is&k=20&c=8xTcqFNE8b9OLJLtq642Yf0MF9VKHzM4QSU90v6SFls=",
+          "contact": {
+            "email": "sarah.mitchell@example.com",
+            "phone": "+1 (555) 789-0123"
+          },
+          "assurance": 91
+        },
+        {
+          "name": "Dr. John Davis",
+          "type": "Dietitian",
+          "description": "Expert in dietary management for chronic conditions.",
+          "experience_years": 15,
+          "location": "Los Angeles, CA",
+          "fee": "$160",
+          "image_url": "https://media.istockphoto.com/id/135567261/photo/attractive-doctor-holding-green-apple.jpg?s=612x612&w=is&k=20&c=S2qIzTaYRTTRp91II-dEX4chQXCb1qdnbAC-NzOJ8Ac=",
+          "contact": {
+            "email": "john.davis@example.com",
+            "phone": "+1 (555) 234-5678"
+          },
+          "assurance": 99
+        },
+        {
+          "name": "Dr. Laura Wilson",
+          "type": "Dietitian",
+          "description": "Specializes in pediatric nutrition and healthy eating habits.",
+          "experience_years": 10,
+          "location": "Chicago, IL",
+          "fee": "$140",
+          "image_url": "https://media.istockphoto.com/id/1227064119/photo/dietitian-doctor-holding-a-green-apple-healthy-diet-and-diet-isolated-on-white-background.jpg?s=612x612&w=0&k=20&c=hqd4a5vvMXugFiKdywvkURvNKp_GaHdGWFF92TP5LgQ=",
+          "contact": {
+            "email": "laura.wilson@example.com",
+            "phone": "+1 (555) 345-6789"
+          },
+          "assurance": 94
+        },
+        {
+          "name": "Dr. Robert Smith",
+          "type": "Dietitian",
+          "description": "Expert in dietary plans for athletes and fitness enthusiasts.",
+          "experience_years": 18,
+          "location": "Houston, TX",
+          "fee": "$170",
+          "image_url": "https://www.usda.gov/sites/default/files/fns-dietitians-nutrition-security-blog-030922.jpg",
+          "contact": {
+            "email": "robert.smith@example.com",
+            "phone": "+1 (555) 456-7890"
+          },
+          "assurance": 98
+        },
+        {
+          "name": "Dr. Emily Johnson",
+          "type": "Dietitian",
+          "description": "Specializes in nutritional support for seniors and the elderly.",
+          "experience_years": 14,
+          "location": "Miami, FL",
+          "fee": "$155",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7nDsOeQ782F2TWOs5tThmfcOf4XAz68ERpLoe-eOBwkQ5Si8QMcamwO1PrrqU1iB33Ww&usqp=CAU",
+          "contact": {
+            "email": "emily.johnson@example.com",
+            "phone": "+1 (555) 567-8901"
+          },
+          "assurance": 100
+        }
+      ]
+    },
+    
+    {
+      "id": 2,
+      "type": "Gynecologist",
+      "description": "Specializes in women's reproductive health and provides prenatal care.",
+      "imageurl": "https://www.aimsindia.com/wp-content/uploads/2022/08/Untitled-2-6.png",
+      "specialist_doctors": [
+        {
+          "name": "Dr. Laura Anderson",
+          "type": "Gynecologist",
+          "description": "Expert in obstetrics and gynecological surgery.",
+          "experience_years": 19,
+          "location": "New York, NY",
+          "fee": "$350",
+          "image_url": "https://content.jdmagicbox.com/comp/hyderabad/d4/040pxx40.xx40.170420145224.z3d4/catalogue/dr-revathy-ramaswamy-yashoda-hospitals-secunderabad-hyderabad-gynaecologist-obstetrician-doctors-2uu3tgz.jpg?clr=",
+          "contact": {
+            "email": "laura.anderson@example.com",
+            "phone": "+1 (555) 789-0123"
+          },
+          "assurance": 99
+        },
+        {
+          "name": "Dr. Sarah Smith",
+          "type": "Gynecologist",
+          "description": "Specializes in infertility treatments and reproductive endocrinology.",
+          "experience_years": 15,
+          "location": "Los Angeles, CA",
+          "fee": "$380",
+          "image_url": "https://www.yashodahospitals.com/online-doctor-consultation/wp-content/uploads/2020/04/Dr-Bhagya-Lakshmi-Gynaecologist-in-hyderabad.jpg",
+          "contact": {
+            "email": "sarah.smith@example.com",
+            "phone": "+1 (555) 234-5678"
+          },
+          "assurance": 100
+        },
+        {
+          "name": "Dr. Emily Davis",
+          "type": "Gynecologist",
+          "description": "Expert in minimally invasive gynecological procedures.",
+          "experience_years": 17,
+          "location": "Chicago, IL",
+          "fee": "$360",
+          "image_url": "https://www.yashodahospitals.com/wp-content/uploads/Dr-Sravanthi-Gadhiraju-Gynaec-Obstetrician.jpg",
+          "contact": {
+            "email": "emily.davis@example.com",
+            "phone": "+1 (555) 345-6789"
+          },
+          "assurance": 99
+        },
+        {
+          "name": "Dr. Michael Johnson",
+          "type": "Gynecologist",
+          "description": "Specializes in high-risk pregnancies and perinatal care.",
+          "experience_years": 20,
+          "location": "Houston, TX",
+          "fee": "$390",
+          "image_url": "https://www.yashodahospitals.com/wp-content/uploads/Dr-P-Usha-Rani-Gynaecologist-in-hyderabad.jpg",
+          "contact": {
+            "email": "michael.johnson@example.com",
+            "phone": "+1 (555) 456-7890"
+          },
+          "assurance": 94
+        },
+        {
+          "name": "Dr. David Wilson",
+          "type": "Gynecologist",
+          "description": "Expert in adolescent gynecology and reproductive health education.",
+          "experience_years": 14,
+          "location": "Miami, FL",
+          "fee": "$330",
+          "image_url": "https://www.yashodahospitals.com/online-doctor-consultation/wp-content/uploads/2020/04/Dr-Bhagya-Lakshmi-Gynaecologist-in-hyderabad.jpg",
+          "contact": {
+            "email": "david.wilson@example.com",
+            "phone": "+1 (555) 567-8901"
+          },
+          "assurance": 95
+        }
+      ]
+    },
+    
+    {
+      "id": 1,
+      "type": "Dentist",
+      "description": "Specializes in orthodontic treatments and dental alignment.",
+      "imageurl": "https://www.orthodonticprecision.com/wp-content/uploads/board-certified-orthodontist-2203.jpg",
+      "specialist_doctors": [
+        {
+          "name": "Dr. Jennifer Adams",
+          "type": "Orthodontist",
+          "description": "Expert in braces and teeth alignment for children and adults.",
+          "experience_years": 15,
+          "location": "New York, NY",
+          "fee": "$450",
+          "image_url": "https://image.made-in-china.com/2f0j00ATjkQqDygIua/Hospital-Medical-Lab-Surgical-Diagnostic-Hospital-Medical-Lab-Surgical-Diagnostic-Dentist-Dental-Disposable-Protect-Face-Shield-Doctor.webp",
+          "contact": {
+            "email": "jennifer.adams@example.com",
+            "phone": "+1 (555) 789-0123"
+          },
+          "assurance": 92
+        },
+        {
+          "name": "Dr. David Wilson",
+          "type": "Orthodontist",
+          "description": "Specializes in Invisalign and orthodontic aesthetics.",
+          "experience_years": 18,
+          "location": "Los Angeles, CA",
+          "fee": "$480",
+          "image_url": "https://c8.alamy.com/comp/J0G6JN/portrait-of-female-nurse-wearing-surgical-mask-in-clinic-J0G6JN.jpg",
+          "contact": {
+            "email": "david.wilson@example.com",
+            "phone": "+1 (555) 234-5678"
+          },
+          "assurance": 99
+        },
+        {
+          "name": "Dr. Sarah Martinez",
+          "type": "Orthodontist",
+          "description": "Expert in orthognathic surgery and facial orthopedics.",
+          "experience_years": 16,
+          "location": "Chicago, IL",
+          "fee": "$460",
+          "image_url": "https://c8.alamy.com/comp/2CTK85C/orthodontist-in-protective-suit-standing-with-arms-crossed-at-office-2CTK85C.jpg",
+          "contact": {
+            "email": "sarah.martinez@example.com",
+            "phone": "+1 (555) 345-6789"
+          },
+          "assurance": 100
+        },
+        {
+          "name": "Dr. Michael Carter",
+          "type": "Orthodontist",
+          "description": "Specializes in early orthodontic intervention for children.",
+          "experience_years": 20,
+          "location": "Houston, TX",
+          "fee": "$490",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdnLvCovOh0H4yGWV2joRv9kGk0j9YsU3Fk5q8HJM5lAxcHa3pIVFeHF6n9l5J2yCrzTI&usqp=CAU",
+          "contact": {
+            "email": "michael.carter@example.com",
+            "phone": "+1 (555) 456-7890"
+          },
+          "assurance": 99
+        },
+        {
+          "name": "Dr. Emily Wilson",
+          "type": "Orthodontist",
+          "description": "Expert in adult orthodontics and smile makeovers.",
+          "experience_years": 14,
+          "location": "Miami, FL",
+          "fee": "$470",
+          "image_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7QCAhTmCo6ArNO51RrQh4r-7V-m_DucEgknA-1tjg3KPA4hzCWapQR5HxiKRDICUSCmw&usqp=CAU",
+          "contact": {
+            "email": "emily.wilson@example.com",
+            "phone": "+1 (555) 567-8901"
+          },
+          "assurance": 94
+        }
+      ]
+    }
+  ]
+}
