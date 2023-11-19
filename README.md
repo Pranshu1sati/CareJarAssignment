@@ -38,7 +38,7 @@ bun dev
 ```
 
 Finally Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-## Task Description and what this repo contains
+## Task description and what this repo contains
 
 
 This repository contains the proof of work for the internship assignment task for the role of Fullstack Developer Intern at CareJar. The task involves creating a Single Page Application (SPA) with two sections: one for selecting the type of doctor and the other for displaying a list of doctors of the selected type. The SPA is built with React.
@@ -60,3 +60,42 @@ https://carrejarrrrrrr.onrender.com/doc/static
  <li> https://carrejarrrrrrr.onrender.com/doc/3</li>
 </ul>
 </ul>
+
+## Screen Shots and video
+
+<h3> Photos Desktop Viwe<h3>
+Section 1 
+
+![image](https://github.com/Pranshu1sati/CareJarAssignment/assets/95905172/2d2dee98-b77a-4946-b6ba-ff1336983ab8)
+
+Section 2 Dentist 
+
+![image](https://github.com/Pranshu1sati/CareJarAssignment/assets/95905172/9670ed46-5bed-4722-8314-7de94f575ae0)
+
+Section 2 Gynecologist
+
+![image](https://github.com/Pranshu1sati/CareJarAssignment/assets/95905172/21abfe3a-1e34-44e2-9b0b-61a7ebef8c87)
+
+Section 2 Dietitian
+
+![image](https://github.com/Pranshu1sati/CareJarAssignment/assets/95905172/e50489d0-fbbc-4a03-9be1-34bc9672dbef)
+
+<h3> Photos Mobile Viwe<h3>
+Section 1 
+
+![image](https://github.com/Pranshu1sati/CareJarAssignment/assets/95905172/14138b70-37c4-491e-8846-7ec4342678e1)
+
+Section 2
+
+![image](https://github.com/Pranshu1sati/CareJarAssignment/assets/95905172/29595de5-4c3d-4ff4-9f6d-388e1b51bc34)
+
+<h3>Video both Mobile and Desktop View</h3>
+
+[2023-11-19 (1).webm](https://github.com/Pranshu1sati/CareJarAssignment/assets/95905172/59e7ed04-62e5-4012-882f-92805fa4af27)
+
+<h3>Video both Tablets and other responsive viewes</h3>
+
+[2023-11-19 00.webm](https://github.com/Pranshu1sati/CareJarAssignment/assets/95905172/ed1de20c-52a2-4a20-a2cd-b10d29b9ffae)
+
+
+
