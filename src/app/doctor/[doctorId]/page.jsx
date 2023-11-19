@@ -11,7 +11,7 @@ const Doctor = () => {
   const [error, setError] = useState(null);
 
   useEffect(() => {
-    const fetchData = async () => {
+    const fetchData = async ({params}) => {
       setLoading(true);
       try {
         const { data: response } = await axios.get(`https://carrejarrrrrrr.onrender.com/doc/${params.doctorId}`);
