@@ -1,9 +1,11 @@
 'use client';
+import React from 'react'
 import { useState, useEffect } from 'react';
 import axios from 'axios';
 import Image from 'next/image';
 import '../../doctor/doc.css'
-export default function page({ params }) {
+
+const page = () => {
   const [loading, setLoading] = useState(true);
   const [data, setData] = useState([]);
   const [error, setError] = useState(null);
@@ -101,3 +103,5 @@ export default function page({ params }) {
     </div>
   );
 }
+
+export default page
