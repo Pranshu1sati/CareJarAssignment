@@ -1,4 +1,4 @@
-<h1>This is a the proof of work of the <b><i>CareJar</i> Fullstack Intership task</b> </h1>
+<h1>This is a the proof of work of the <b><i>CareJar</i> Fullstack Developer Intership task</b> </h1>
 <h3>Built with </h3>
 <ul list-style-type="none"; >
 
