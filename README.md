@@ -44,12 +44,14 @@ Finally Open [http://localhost:3000](http://localhost:3000) with your browser to
 This repository contains the proof of work for the internship assignment task for the role of Fullstack Developer Intern at CareJar. The task involves creating a Single Page Application (SPA) with two sections: one for selecting the type of doctor and the other for displaying a list of doctors of the selected type. The SPA is built with React.
 
 In the first section, users have the option to choose the type of doctor. Upon selection, they move to the next section, where data is dynamically fetched using a slug from an Express API. This API retrieves data from a MongoDB database. The backend for this API is located in the 'backend' folder and is deployed on Render. The provided link below can be used to access it.
-The data that has been stored in mongodb came from an fake data API named mocki.io a fake data api for developers the relevent data for this was stored into a json file and then stored into mongoDB cloud database with a script in the backed forlder named populate.js
+The data that has been stored in mongodb came from an fake data API named mocki.io a fake data api for developers the relevent data for this was stored into a json file and then stored into mongoDB cloud database with a script in the backed forlder named populate.js then the express server is built for connecting to the database and handelling get requests for data and async errors.
 
-This is a small fullstackk project with build with React, Nodejs, Express, and MongoDB
+This is a small fullstack project with build with React, Nodejs, Express, and MongoDB and submitted to the CareJar esteemed Hiring Team for evaluation by Pranshu Sati (pranshusati1@gmail.com)
 
+## API routes
+<h3>Backend API Description</h3>
 <ul>
-<li>api home route</li>
+<li>Backend API Home Route</li>
  https://carrejarrrrrrr.onrender.com/
 <li>api static route all data</li>
 https://carrejarrrrrrr.onrender.com/doc/static
@@ -59,8 +61,11 @@ https://carrejarrrrrrr.onrender.com/doc/static
   <li>https://carrejarrrrrrr.onrender.com/doc/2</li>
  <li> https://carrejarrrrrrr.onrender.com/doc/3</li>
 </ul>
+<li>Mocki.io All Data API</li>
+ https://mocki.io/v1/0b32abfc-c425-429d-9da4-ecc36119fd20
 </ul>
 
+<h3>Frontend Client Description</h3>
 ## Screen Shots and video
 
 <h3> Photos Desktop Viwe<h3>
