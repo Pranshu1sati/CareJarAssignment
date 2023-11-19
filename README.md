@@ -1,6 +1,11 @@
 <h1>This is a the proof of work of the <b><i>CareJar</i> Fullstack Intership task</b> </h1>
 <h3>Built with </h3>
-[![My Skills](https://skillicons.dev/icons?i=,react,nodejs,express,mongodb&theme=light)](https://skillicons.dev)
+<ul>
+ <li><img src="https://en.m.wikipedia.org/wiki/File:React-icon.svg"></li>
+ <li>Nodejs</li>
+ <li>Express</li>
+ <li>MongoDb</li>
+</ul>
 <b><i>Project Deployed Link </i></b>
 <i>To visited the deployed project click the link deloy</i>
 
