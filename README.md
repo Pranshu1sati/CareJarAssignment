@@ -15,9 +15,24 @@
 
 
 ## If you decide to Clone this repo to start the App 
-
-First, run the development server:
+First, run the development server for express backed:
 ```bash
+cd backend
+
+npm i
+# or
+npm install
+# or
+yarn
+#followed by 
+node app.js
+#or
+node app
+```
+Second, install dependencies on root directory (client):
+```bash
+cd ../
+# followed by
 npm i
 # or
 npm install
@@ -36,20 +51,7 @@ pnpm dev
 # or
 bun dev
 ```
-Third, run the development server for express backed:
-```bash
-cd backend
 
-npm i
-# or
-npm install
-# or
-yarn
-#followed by 
-node app.js
-#or
-node app
-```
 Finally Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 ## Task description and what this repo contains
 
