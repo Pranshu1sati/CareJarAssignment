@@ -1,4 +1,6 @@
-This is a the proof of work of the <b><i>CareJar</i> Fullstack Intership task</b> 
+<h1>This is a the proof of work of the <b><i>CareJar</i> Fullstack Intership task</b> </h1>
+<h3>Built with </h3>
+[![My Skills](https://skillicons.dev/icons?i=,react,nodejs,express,mongodb&theme=light)](https://skillicons.dev)
 <b><i>Project Deployed Link </i></b>
 <i>To visited the deployed project click the link deloy</i>
 
@@ -29,10 +31,15 @@ bun dev
 ```
 
 Finally Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Task Description and what this repo contains
+
 
 This repository contains the proof of work for the internship assignment task for the role of Fullstack Developer Intern at CareJar. The task involves creating a Single Page Application (SPA) with two sections: one for selecting the type of doctor and the other for displaying a list of doctors of the selected type. The SPA is built with React.
 
 In the first section, users have the option to choose the type of doctor. Upon selection, they move to the next section, where data is dynamically fetched using a slug from an Express API. This API retrieves data from a MongoDB database. The backend for this API is located in the 'backend' folder and is deployed on Render. The provided link below can be used to access it.
+The data that has been stored in mongodb came from an fake data API named mocki.io a fake data api for developers the relevent data for this was stored into a json file and then stored into mongoDB cloud database with a script in the backed forlder named populate.js
+
+This is a small fullstackk project with build with React, Nodejs, Express, and MongoDB
 
 <ul>
 <li>api home route</li>
