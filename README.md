@@ -2,7 +2,7 @@ This is a the proof of work of the <b><i>CareJar</i> Fullstack Intership task</b
 <b><i>Project Deployed Link </i></b>
 <i>To visited the deployed project click the link deloy</i>
 
-- [Project Link]([https://ecommerce-with-sanity-nine.vercel.app/](https://care-jar-assignment.vercel.app/))
+- [Project Link](https://ecommerce-with-sanity-nine.vercel.app/](https://care-jar-assignment.vercel.app/)
 
 
 ## Getting Started
