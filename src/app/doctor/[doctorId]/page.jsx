@@ -5,7 +5,7 @@ import axios from 'axios';
 import Image from 'next/image';
 import '../../doctor/doc.css'
 
-const page = () => {
+const Doctor = () => {
   const [loading, setLoading] = useState(true);
   const [data, setData] = useState([]);
   const [error, setError] = useState(null);
@@ -104,4 +104,4 @@ const page = () => {
   );
 }
 
-export default page
+export default Doctor
