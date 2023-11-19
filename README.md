@@ -17,8 +17,7 @@
 ## If you decide to Clone this repo to start the App 
 First, run the development server for express backed:
 ```bash
-cd backend
-
+Extract the .rar file in the backend folder, open terminal and type the following commands
 npm i
 # or
 npm install
