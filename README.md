@@ -46,7 +46,7 @@ This repository contains the proof of work for the internship assignment task fo
 In the first section, users have the option to choose the type of doctor. Upon selection, they move to the next section, where data is dynamically fetched using a slug from an Express API. This API retrieves data from a MongoDB database. The backend for this API is located in the 'backend' folder and is deployed on Render. The provided link below can be used to access it.
 The data that has been stored in mongodb came from an fake data API named mocki.io a fake data api for developers the relevent data for this was stored into a json file and then stored into mongoDB cloud database with a script in the backed forlder named populate.js then the express server is built for connecting to the database and handelling get requests for data and async errors.
 
-This is a small fullstack project with build with React, Nodejs, Express, and MongoDB and submitted to the CareJar's esteemed Hiring Team for evaluation by Pranshu Sati (pranshusati1@gmail.com)
+This is a small fullstack project build with React, Nodejs, Express, and MongoDB and submitted to the CareJar's esteemed Hiring Team for evaluation by Pranshu Sati (pranshusati1@gmail.com)
 
 ## API routes
 <h3>Backend API Description</h3>
