@@ -2,9 +2,7 @@
 <h3>Built with </h3>
 <ul>
  <li>
-  React
   <img src="https://github.com/Pranshu1sati/CareJarAssignment/assets/95905172/bfd7f08f-1b14-4897-ad7a-300fc560f8f8" width="100" height ="100"/>
-
 </li>
  <li>![Logo](https://camo.githubusercontent.com/a592e4641d068dd9c5bb86813115cd21d4b01b5a3dded5547733cf59923e81f9/68747470733a2f2f7261772e6769746875622e636f6d2f436972636c6543492d5075626c69632f63696d672d6e6f64652f6d61696e2f696d672f636972636c652d6e6f64656a732e7376673f73616e6974697a653d74727565)</li>
  <li>Express</li>
