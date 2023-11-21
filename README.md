@@ -58,7 +58,7 @@ Finally Open [http://localhost:3000](http://localhost:3000) with your browser to
 This repository contains the proof of work for the internship assignment task for the role of Fullstack Developer Intern at CareJar. The task involves creating a Single Page Application (SPA) with two sections: one for selecting the type of doctor and the other for displaying a list of doctors of the selected type. The SPA is built with React.
 
 In the first section, users have the option to choose the type of doctor. Upon selection, they move to the next section, where data is dynamically fetched using a slug from an Express API. This API retrieves data from a MongoDB database. The backend for this API is located in the 'backend.rar' file and is deployed on Render. The provided link below can be used to access it. The data that has been stored in MongoDB came from a fake data API named mocki.io, a fake data API for developers. The relevant data for this project was stored in a JSON file and then inserted into the MongoDB Cloud database with a script in the 'backend' folder named populate.js. Subsequently, the Express server is built to connect to the database and handle GET requests for data and asynchronous errors.
-
+On Client the data is fetched Dinamically on page load using the parament on the route and runnig a side effect using the useEffect hook of React.
 This is a small fullstack project built with React, Node.js, Express, and MongoDB, and it has been submitted to CareJar's esteemed Hiring Team for evaluation by Pranshu Sati (pranshusati1@gmail.com).
 
 
